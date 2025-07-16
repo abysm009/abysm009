@@ -7,12 +7,12 @@
  ---
 
 ### 🌐 Socials
-<p align="left"> <a href="https://www.linkedin.com/in/lordelcariaga/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:lordel.cariaga@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://lordel.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/lordel-cariaga/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:lordel.cariaga@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://lordel.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
 ---
 
 ### 💫 About Me
-A passionate software engineer with 6+ years of experience crafting sleek frontends and full-stack apps. When I'm not coding, I’m either taking care of my baby boy 👶 Adrielle, feeding chickens 🐔, sketching 🎨, or building my own anime-style RPG.
+A passionate software engineer with 6+ years of experience crafting sleek frontends and full-stack apps. When I'm not coding, I’m either taking care of my baby boy 👶, feeding chickens 🐔, sketching 🎨, or building random stuffs at home.
 
 - 🔭 Currently building a **custom POS system** for a sari-sari store (React Native + SQLite + Firebase)
 - 🌱 Learning more about **Go**, **AI/ML**, and **Reinforcement Learning**
@@ -51,15 +51,6 @@ A passionate software engineer with 6+ years of experience crafting sleek fronte
 ### ✍️ Dev Quote
 
 <div align="left"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/> </div>
-
----
-
-### 🐾 Little Things About Me
-
-- 🐱 I have 2 Persian cats, 1 Husky, 2 Labrador pups
-- 📽️ I love drawing, movies, and making fun UI animations
-- 🐔 Currently raising over 30+ Rhode Island Reds
-- 🎮 Building my own anime-style 3D RPG game
 
 ---
 
