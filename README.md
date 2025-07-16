@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lordelcariaga/" target="_blank">🌐 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/lordel-cariaga/" target="_blank">🌐 LinkedIn</a>
   &nbsp;&bull;&nbsp;
   <a href="mailto:lordel.cariaga@gmail.com">📧 Email</a>
 </p>
