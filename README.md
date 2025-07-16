@@ -30,7 +30,7 @@ A passionate software engineer with 6+ years of experience crafting sleek fronte
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=lordelcariaga&theme=onedark&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" />
 </p>
 
@@ -38,11 +38,11 @@ A passionate software engineer with 6+ years of experience crafting sleek fronte
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lordelcariaga&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordelcariaga&layout=compact&theme=tokyonight" />
 </p>
 
@@ -50,7 +50,7 @@ A passionate software engineer with 6+ years of experience crafting sleek fronte
 
 ### ✍️ Dev Quote
 
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/> </div>
+<div align="left"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/> </div>
 
 ---
 
