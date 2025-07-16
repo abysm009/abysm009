@@ -4,11 +4,10 @@
   🧑‍💻 Frontend Engineer | 🎮 Indie Game Dev | 🐓 Chicken Dad | 👶 Newborn Daddy | 🇵🇭 PH-based
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lordel-cariaga/" target="_blank">🌐 LinkedIn</a>
-  &nbsp;&bull;&nbsp;
-  <a href="mailto:lordel.cariaga@gmail.com">📧 Email</a>
-</p>
+ ---
+
+### 🌐 Socials
+<p align="left"> <a href="https://www.linkedin.com/in/lordelcariaga/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:lordel.cariaga@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://lordel.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
 ---
 
@@ -51,7 +50,7 @@ A passionate software engineer with 6+ years of experience crafting sleek fronte
 
 ### ✍️ Dev Quote
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/> </div>
 
 ---
 
