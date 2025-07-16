@@ -1,15 +1,10 @@
-<h1 align="center">Hi there, I'm Lordel 👋</h1>
+<h1 align="center">Hi there, I'm Lordel (Ardi)👋</h1>
 
 <p align="center">
   🧑‍💻 Frontend Engineer | 🎮 Indie Game Dev | 🐓 Chicken Farmer | 👶 New Daddy | 🇵🇭 PH-based
 </p>
 
  ---
-
-### 🌐 Socials
-<p align="left"> <a href="https://www.linkedin.com/in/lordel-cariaga/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:lordel.cariaga@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://ardi-codes.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
-
----
 
 ### 💫 About Me
 A passionate software engineer with 6+ years of experience crafting sleek frontends and full-stack apps. When I'm not coding, I’m either taking care of my baby boy 👶, feeding chickens 🐔, sketching 🎨, or building random stuffs at home.
@@ -19,6 +14,11 @@ A passionate software engineer with 6+ years of experience crafting sleek fronte
 - 🛠 I enjoy converting templates into scalable Vue 3 apps using **Vite**, **Tailwind**, and **Composition API**
 - 💬 Ask me about Vue, React, JS, Laravel, or indie game dev
 - 🧠 Fun fact: Ambidextrous! I switch hands in ping pong or badminton for mind games 😄
+
+---
+
+### 🌐 Socials
+<p align="left"> <a href="https://www.linkedin.com/in/lordel-cariaga/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:lordel.cariaga@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://ardi-codes.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
 ---
 
