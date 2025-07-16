@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lordel 👋</h1>
 
 <p align="center">
-  🧑‍💻 Frontend Engineer | 🎮 Indie Game Dev | 🐓 Chicken Dad | 👶 Newborn Daddy | 🇵🇭 PH-based
+  🧑‍💻 Frontend Engineer | 🎮 Indie Game Dev | 🐓 Chicken Farmer | 👶 New Daddy | 🇵🇭 PH-based
 </p>
 
  ---
