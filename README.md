@@ -7,7 +7,7 @@
  ---
 
 ### 🌐 Socials
-<p align="left"> <a href="https://www.linkedin.com/in/lordel-cariaga/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:lordel.cariaga@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://lordel.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/lordel-cariaga/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:lordel.cariaga@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://ardi-codes.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
 ---
 
