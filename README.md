@@ -28,30 +28,10 @@ A passionate software engineer with 7+ years of experience crafting sleek fronte
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=lordelcariaga&theme=onedark&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lordelcariaga&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordelcariaga&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### ✍️ Dev Quote
 
 <div align="left"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/> </div>
 
 ---
 
-> Thanks for stopping by! ⭐ If you like my projects, feel free to star, fork, or connect.
+> Thanks for stopping by!
