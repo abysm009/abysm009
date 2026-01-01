@@ -7,7 +7,7 @@
  ---
 (Quick Note: Most of my Projects are Private - Company owned which makes my profile look inactive, no worries, I'm more than alive! :D) 
 ### 💫 About Me
-A passionate software engineer with 6+ years of experience crafting sleek frontends and full-stack apps. When I'm not coding, I’m either taking care of my baby boy 👶, feeding chickens 🐔, sketching 🎨, or building random stuffs at home.
+A passionate software engineer with 7+ years of experience crafting sleek frontends and full-stack apps. When I'm not coding, I’m either taking care of my baby boy 👶, feeding chickens 🐔, sketching 🎨, or building random stuffs at home.
 
 - 🔭 Currently building a **custom Budgetting App** for personal usage (React Native + SQLite + Firebase)
 - 🌱 Learning more about **Go**, **AI/ML**, and **Reinforcement Learning**
