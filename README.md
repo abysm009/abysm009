@@ -9,9 +9,8 @@
 ### 💫 About Me
 A passionate software engineer with 7+ years of experience crafting sleek frontends and full-stack apps. When I'm not coding, I’m either taking care of my baby boy 👶, feeding chickens 🐔, sketching 🎨, or building random stuffs at home.
 
-- 🔭 Currently building a **custom Budgetting App** for personal usage (React Native + SQLite + Firebase)
-- 🌱 Learning more about **Go**, **AI/ML**, and **Reinforcement Learning**
-- 🛠 I enjoy converting templates into scalable Vue 3 apps using **Vite**, **Tailwind**, and **Composition API**
+- 🔭 Currently building a **custom AI Generation/Workflow App** for personal usage (React + Supabase + CFR2)
+- 🌱 Learning more about **Python**, **AI/ML**, and **Reinforcement Learning**
 - 💬 Ask me about Vue, React, JS, Laravel, or indie game dev
 - 🧠 Fun fact: Ambidextrous! I switch hands in ping pong or badminton for mind games 😄
 
